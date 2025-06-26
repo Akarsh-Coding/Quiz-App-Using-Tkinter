@@ -1,0 +1,112 @@
+[
+    {
+        "ID":1,
+        "Q":"Which of the following memory types is non-volatile?",
+        "choices":[
+            "RAM",
+            "ROM",
+            "Cache",
+            "Register"
+        ],
+        "A":"ROM"
+    },
+    {
+        "ID":2,
+        "Q":"What does the acronym HTTP stand for?",
+        "choices":[
+            "High Text Transfer Protocol",
+            "Hyper Transfer Text Protocol",
+            "Host Transfer Type Protocol",
+            "HyperText Transfer Protocol"
+        ],
+        "A":"HyperText Transfer Protocol"
+    },
+    {
+        "ID":3,
+        "Q":"Which device converts digital signals into analog signals (and vice versa)?",
+        "choices":[
+            "Router",
+            "Modem",
+            "Switch",
+            "Hub"
+        ],
+        "A":"Modem"
+    },
+    {
+        "ID":4,
+        "Q":"What is the main purpose of an IP address?",
+        "choices":[
+            "Encrypt web traffic",
+            "Identify a device on a network",
+            "Store MAC addresses",
+            "Transfer files between computers"
+        ],
+        "A":"Identify a device on a network"
+    },
+    {
+        "ID":5,
+        "Q":"Which file extension is used for executables in Windows?",
+        "choices":[
+            ".txt",
+            ".exe",
+            ".docx",
+            ".bat"
+        ],
+        "A":".exe"
+    },
+    {
+        "ID":6,
+        "Q":"What is the function of a motherboard?",
+        "choices":[
+            "Store data",
+            "Process input",
+            "Connect and communicate between components",
+            "Display graphics"
+        ],
+        "A":"Connect and communicate between components"
+    },
+    {
+        "ID":7,
+        "Q":"What does SSD stand for?",
+        "choices":[
+            "Secure Software Disk",
+            "Solid-State Drive",
+            "Super Speed Drive",
+            "Software System Drive"
+        ],
+        "A":"Solid-State Drive"
+    },
+    {
+        "ID":8,
+        "Q":"Which of the following is NOT an operating system?",
+        "choices":[
+            "Oracle",
+            "Linux",
+            "macOS",
+            "Windows"
+        ],
+        "A":"Oracle"
+    },
+    {
+        "ID":9,
+        "Q":"What does BIOS stand for?",
+        "choices":[
+            "Basic Input Output System",
+            "Basic Internal Operating Software",
+            "Built-In Operating System",
+            "Binary Integrated Operating System"
+        ],
+        "A":"Basic Input Output System"
+    },
+    {
+        "ID":10,
+        "Q":"In networking, what does DNS stand for?",
+        "choices":[
+            "Digital Network System",
+            "Data Naming Structure",
+            "Domain Name System"
+            ,"Device Network Security"
+        ],
+        "A":"Domain Name System"
+    }
+]
